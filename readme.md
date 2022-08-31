@@ -15,12 +15,11 @@ Programming Languages:
 
 
 Windows
+
     1. Clone this github repo
         cd ~
-        git clone https://github.com/udacity/SFND_Lidar_Obstacle_Detection.git
-    
+        git clone https://github.com/rajnishASL/Uncertainty-Quantification
     2. Edit the Uncertainty Quantification/MATLAB/demo.m to include the desired simulation parameters
     3. Add the ode45 model .m file in Quantification/MATLAB/: 
         The example ode45 model .m file for the demo is "spring_mass_damper.m"
-    
     * The Uncertainty Quantification/MATLAB/src contains the MATLAB source files to carry out gPC expansion. 
